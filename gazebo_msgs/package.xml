@@ -30,6 +30,9 @@
   <exec_depend>trajectory_msgs</exec_depend>
   <exec_depend>std_msgs</exec_depend>
 
+  <depend>rosidl_typesupport_connext_cpp</depend>
+  <depend>rosidl_typesupport_fastrtps_cpp</depend>
+
   <test_depend>ament_lint_common</test_depend>
 
   <member_of_group>rosidl_interface_packages</member_of_group>
